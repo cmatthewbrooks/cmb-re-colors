@@ -1,0 +1,3 @@
+[submodule "ida-consonance"]
+	path = ida-consonance
+	url = https://github.com/eugeii/ida-consonance.git
