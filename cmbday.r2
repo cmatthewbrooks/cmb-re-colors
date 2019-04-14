@@ -1,7 +1,7 @@
 
 # Draw attention to important stuff
 
-ec call rgb:004080 . bold
+ec call rgb:00ff45 . bold
 ec jmp rgb:40c0f0
 ec cjmp rgb:40c0f0
 ec func_var_type rgb:40c0f0
